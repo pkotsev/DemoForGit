@@ -29,5 +29,10 @@ namespace WpfApplication1
         {
             MessageBox.Show("Hello world - did you expect anything else?");
         }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Thanks for clicking!");
+        }
     }
 }
