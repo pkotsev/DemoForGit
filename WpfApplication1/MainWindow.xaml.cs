@@ -25,7 +25,7 @@ namespace WpfApplication1
             InitializeComponent();
         }
 
-        private void button_Click(object sender, RoutedEventArgs e)
+        private void button1_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Hello world - did you expect anything else?");
         }
@@ -33,6 +33,11 @@ namespace WpfApplication1
         private void button2_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Thanks for clicking!");
+        }
+
+        private void button3_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("one more click...");
         }
     }
 }
