@@ -34,5 +34,10 @@ namespace WpfApplication1
         {
             MessageBox.Show("Thanks for clicking!");
         }
+        
+        private void button2_Copy_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Thanks for clicking!");
+        }
     }
 }
