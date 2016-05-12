@@ -10,6 +10,6 @@
         <Button x:Name="button1" Content="Click me" HorizontalAlignment="Left" Margin="56,65,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="56,122,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="button2" Content="Click me too" HorizontalAlignment="Left" Margin="172,65,0,0" VerticalAlignment="Top" Width="75" Click="button2_Click"/>
-        <Button x:Name="button2_Copy" Content="Click me too 22222" HorizontalAlignment="Left" Margin="291,65,0,0" VerticalAlignment="Top" Width="138" Click="button2_Click" RenderTransformOrigin="1.907,2.318"/>
+        <Button x:Name="button2_Copy" Content="Click me too 22222" HorizontalAlignment="Left" Margin="291,65,0,0" VerticalAlignment="Top" Width="138" Click="button2_Copy_Click" RenderTransformOrigin="1.907,2.318"/>
     </Grid>
 </Window>
